@@ -1,0 +1,84 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-image: url(Images/Background.jpg);
+  background-size: cover;
+}
+
+div img {
+  width: 300px;
+}
+
+.sun {
+  top: 80px;
+  width: 800px;
+  position: absolute;
+  left: -400px;
+  right: -150px;
+}
+
+.mecury {
+  position: absolute;
+  width: 50px;
+  left: 220px;
+  top: 290px;
+}
+
+.venus {
+  position: absolute;
+  width: 80px;
+  left: 320px;
+  top: 270px;
+}
+
+.earth {
+  position: absolute;
+  top: 270px;
+  left: 420px;
+  width: 90px;
+}
+
+.mars {
+  position: absolute;
+  width: 50px;
+  top: 285px;
+  left: 530px;
+}
+
+.jupiter {
+  width: 200px;
+  position: absolute;
+  top: 200px;
+  left: 600px;
+}
+
+.saturn {
+  width: 180px;
+  position: absolute;
+  top: 220px;
+  left: 770px;
+}
+
+.uranus {
+  width: 250px;
+  top: 240px;
+  left: 870px;
+  position: absolute;
+}
+
+.neptune {
+  width: 150px;
+  top: 230px;
+  left: 1050px;
+  position: absolute;
+}
+
+.pluto {
+  width: 100px;
+  top: 255px;
+  left: 1200px;
+  position: absolute;
+}
